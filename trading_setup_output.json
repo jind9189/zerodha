@@ -1,0 +1,10 @@
+[
+  {
+    "Stock":"PAYTM",
+    "LTP":1124.8,
+    "Bias":"NEUTRAL",
+    "Stop Loss":1079.81,
+    "Target":1214.78,
+    "AI Rationale":"Fallback triggered."
+  }
+]

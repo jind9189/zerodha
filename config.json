@@ -1,0 +1,9 @@
+{
+    "watchlist": ["PAYTM", "HDFCBANK", "INFY", "TCS", "RELIANCE"],
+    "ichimoku_settings": {
+        "tenkan_period": 9,
+        "kijun_period": 26,
+        "senkou_span_b_period": 52
+    }
+}
+
